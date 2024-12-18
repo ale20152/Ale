@@ -1,8 +1,7 @@
 body{
 background-image: url("zucca-batwing-0a5031cc.jpeg") ;
 background-repeat: no-repeat;
-background-size: cover;
-
+background-size:cover ;
 }
 
 h1{
@@ -14,3 +13,4 @@ p{
     background-color: rgba(20, 40, 50, 0.5);
     color: whitesmoke;
 }
+
