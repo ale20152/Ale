@@ -1,7 +1,7 @@
 //dichiarazione di funzione
-function saluto(tipoDiSaluto){
+function saluto(tipoDiSaluto , nome){
 
-console.log("tipoDiSaluto");
+console.log(tipoDiSaluto + "" + nome);
 
 }
 
